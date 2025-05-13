@@ -1,5 +1,5 @@
 import streamlit as st
-from sara3 import BilingualTranslationPipeline
+from translation import BilingualTranslationPipeline
 import time
 import os
 
